@@ -7,5 +7,6 @@ def roll
   
   #return 1 + rand(6)
   #return rand(1..6)
+  return Random.rand(1..6)
   
 end
